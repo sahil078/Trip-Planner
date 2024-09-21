@@ -1,6 +1,11 @@
 # AI Trip Planner
 
-![AI Trip Planner](/public/landing.png) <!-- Replace with the path to your app image -->
+![AI Trip Planner](/public/tripimg1.png) <!-- Replace with the path to your app image -->
+
+![AI Trip Planner](/public/tripimg2.png) <!-- Replace with the path to your app image -->
+
+![AI Trip Planner](/public/tripimg4.png) <!-- Replace with the path to your app image -->
+
 
 ## Overview
 
@@ -26,4 +31,19 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sahil078/ai-trip-planner.git
+   git clone https://github.com/sahil078/Trip-Planner.git
+
+2. Navigate to repository:
+   ```bash
+    cd Trip-Planner
+
+3. install Dependencies:
+   ```bash
+    npm install
+
+4. Run the Project:
+   ```bash
+    npm run dev
+
+
+
